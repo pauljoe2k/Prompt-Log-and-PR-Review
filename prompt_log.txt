@@ -1,0 +1,52 @@
+
+Prompt Log
+
+Prompt 1:
+Prompt:
+“How do I center and style a hero section using Flexbox for desktop and mobile?”
+
+AI Response Summary:
+Use display: flex, flex-direction: column, justify-content: center, and align-items: center with responsive padding and height.
+
+My Implementation:
+Styled the .hero section with Flexbox. Used vertical spacing, a gradient background, and centered content for a balanced hero banner.
+
+Prompt 2:
+Prompt:
+“What’s a good hover animation for CTA buttons to make them modern and attractive?”
+
+AI Response Summary:
+Apply transform: scale(1.05) and a subtle shadow using box-shadow with transition for smoothness.
+
+My Implementation:
+Used this suggestion for both .hero button and .product-card button hover states. Also added background darkening on hover.
+
+Prompt 3:
+Prompt:
+“How can I use CSS Grid to make product cards responsive and well-aligned?”
+
+AI Response Summary:
+Use display: grid with grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)) for a flexible layout. Add spacing using gap.
+
+My Implementation:
+Created a product section with 6 cards using this layout. Ensures automatic resizing on all screen sizes.
+
+Prompt 4:
+Prompt:
+“What’s a good modern header layout with branding and navigation?”
+
+AI Response Summary:
+Use flex layout with justify-content: space-between for title and nav links. Add hover color changes and spacing between links.
+
+My Implementation:
+Implemented header with clean typography, spacing, and hover effects using color: #e1bee7 on a:hover.
+
+Prompt 5:
+Prompt:
+“What base font and background gradient give a soft, elegant feel for a female-focused e-commerce theme?”
+
+AI Response Summary:
+Suggested Google Font Poppins and a gradient using lavender (#e1bee7) and white, optionally from top to bottom or side to side.
+
+My Implementation:
+Used Poppins throughout and a gradient for the body and hero section. Gave the site a gentle and elegant visual tone.
